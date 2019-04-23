@@ -2,7 +2,12 @@
  am good 
 
  iam bad
+<<<<<<< HEAD
 kk
 
 jhgesjhwqgehk
 
+=======
+kkk
+vshgdf
+>>>>>>> 9e60f650baf5dd478c2c1462ef0fd61173023904
